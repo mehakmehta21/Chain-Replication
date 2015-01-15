@@ -1,0 +1,437 @@
+2014-11-12 21:13:45,200 [ProcessSpawn.java:main:38] - ProcessSpawnNum of Banks for initiation: 1
+2014-11-12 21:13:45,203 [ProcessSpawn.java:main:43] - ProcessSpawnbankname: icici
+2014-11-12 21:13:45,203 [ProcessSpawn.java:main:51] - ProcessSpawnchainLength: 4
+2014-11-12 21:13:45,231 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:45,241 [Server.java:main:974] - icici::TAIL::server4::  Server started as TAIL
+2014-11-12 21:13:45,252 [Server.java:main:962] - icici::TAIL::server4:: Udp server at ip 127.0.0.1 port: 9879 started..
+2014-11-12 21:13:45,258 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:45,260 [Server.java:main:974] - icici::NORMAL::server3::  Server started as NORMAL
+2014-11-12 21:13:45,263 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:45,265 [Server.java:main:974] - icici::NORMAL::server2::  Server started as NORMAL
+2014-11-12 21:13:45,268 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:45,270 [Server.java:main:974] - icici::HEAD::server1::  Server started as HEAD
+2014-11-12 21:13:45,270 [Server.java:main:935] - icici::HEAD::server1:: HEAD::udp for client started at ip 127.0.0.1 port: 9876
+2014-11-12 21:13:47,234 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:47,260 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:47,264 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:47,269 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:49,236 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:49,261 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:49,268 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:49,271 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:50,121 [Server.java:pool-5-thread-1:773] - icici::TAIL::server4:: Received client Query request..127.0.0.1 port 61728
+2014-11-12 21:13:50,351 [Server.java:pool-5-thread-1:804] - icici::TAIL::server4:: tail account is null
+2014-11-12 21:13:50,352 [Server.java:pool-5-thread-1:736] - icici::TAIL::server4:: New Account created with account no : 123456
+2014-11-12 21:13:50,371 [Server.java:pool-5-thread-1:825] - icici::TAIL::server4:: Client qurey replied..
+2014-11-12 21:13:50,372 [Server.java:pool-5-thread-1:829] - icici::TAIL::server4:: sendSyncToSuccessor - lifeMsgs: 9999
+2014-11-12 21:13:51,237 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:51,262 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:51,268 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:51,294 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:53,238 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:53,263 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:53,269 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:53,295 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:55,248 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:55,263 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:55,271 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:55,295 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:56,181 [Server.java:pool-5-thread-2:773] - icici::TAIL::server4:: Received client Query request..127.0.0.1 port 61732
+2014-11-12 21:13:56,189 [Server.java:pool-5-thread-2:804] - icici::TAIL::server4:: tail account is null
+2014-11-12 21:13:56,189 [Server.java:pool-5-thread-2:736] - icici::TAIL::server4:: New Account created with account no : 123457
+2014-11-12 21:13:56,191 [Server.java:pool-5-thread-2:825] - icici::TAIL::server4:: Client qurey replied..
+2014-11-12 21:13:56,192 [Server.java:pool-5-thread-2:829] - icici::TAIL::server4:: sendSyncToSuccessor - lifeMsgs: 9998
+2014-11-12 21:13:57,249 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:57,265 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:57,272 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:57,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:13:58,171 [Server.java:pool-21-thread-1:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61734
+2014-11-12 21:13:58,179 [Server.java:pool-21-thread-1:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client2.2
+2014-11-12 21:13:58,181 [Server.java:pool-21-thread-1:736] - icici::HEAD::server1:: New Account created with account no : 123457
+2014-11-12 21:13:58,181 [Server.java:pool-21-thread-1:639] - icici::HEAD::server1:: ReqId: icici.client2.2-Deposit operation complete new balance is : 200.0
+2014-11-12 21:13:58,181 [Server.java:pool-21-thread-1:867] - icici::HEAD::server1:: Received Request No -icici.client2.2
+2014-11-12 21:13:58,182 [Server.java:pool-21-thread-1:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9999
+2014-11-12 21:13:58,182 [Server.java:pool-21-thread-1:671] - icici::HEAD::server1:: ReqId: icici.client2.2-Sendin sync to successor
+2014-11-12 21:13:58,209 [Server.java:pool-14-thread-1:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client2.2","accountNum":123457,"amount":200.0,"replyPort":10003}
+2014-11-12 21:13:58,212 [Server.java:pool-14-thread-1:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client2.2
+2014-11-12 21:13:58,212 [Server.java:pool-14-thread-1:736] - icici::NORMAL::server2:: New Account created with account no : 123457
+2014-11-12 21:13:58,212 [Server.java:pool-14-thread-1:639] - icici::NORMAL::server2:: ReqId: icici.client2.2-Deposit operation complete new balance is : 200.0
+2014-11-12 21:13:58,213 [Server.java:pool-14-thread-1:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9999
+2014-11-12 21:13:58,213 [Server.java:pool-14-thread-1:671] - icici::NORMAL::server2:: ReqId: icici.client2.2-Sendin sync to successor
+2014-11-12 21:13:58,216 [Server.java:pool-9-thread-1:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client2.2","accountNum":123457,"amount":200.0,"replyPort":10003}
+2014-11-12 21:13:58,218 [Server.java:pool-9-thread-1:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client2.2
+2014-11-12 21:13:58,218 [Server.java:pool-9-thread-1:736] - icici::NORMAL::server3:: New Account created with account no : 123457
+2014-11-12 21:13:58,219 [Server.java:pool-9-thread-1:639] - icici::NORMAL::server3:: ReqId: icici.client2.2-Deposit operation complete new balance is : 200.0
+2014-11-12 21:13:58,219 [Server.java:pool-9-thread-1:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9999
+2014-11-12 21:13:58,219 [Server.java:pool-9-thread-1:671] - icici::NORMAL::server3:: ReqId: icici.client2.2-Sendin sync to successor
+2014-11-12 21:13:58,223 [Server.java:pool-4-thread-1:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client2.2","accountNum":123457,"amount":200.0,"replyPort":10003}
+2014-11-12 21:13:58,226 [Server.java:pool-4-thread-1:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client2.2
+2014-11-12 21:13:58,226 [Server.java:pool-4-thread-1:639] - icici::TAIL::server4:: ReqId: icici.client2.2-Deposit operation complete new balance is : 200.0
+2014-11-12 21:13:58,227 [Server.java:pool-4-thread-1:918] - icici::TAIL::server4::  ReqId: icici.client2.2 Sending reply to client and ack to predecessor
+2014-11-12 21:13:58,227 [Server.java:pool-4-thread-1:688] - icici::TAIL::server4::  ReqId: icici.client2.2Reply to client : /127.0.0.1 port:61734
+2014-11-12 21:13:58,230 [Server.java:pool-4-thread-1:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:13:58,230 [Server.java:pool-4-thread-1:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client2.2
+2014-11-12 21:13:58,236 [Server.java:pool-10-thread-2:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:13:58,240 [Server.java:pool-10-thread-2:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client2.2
+2014-11-12 21:13:58,240 [Server.java:pool-10-thread-2:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client2.2
+2014-11-12 21:13:58,243 [Server.java:pool-15-thread-2:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:13:58,248 [Server.java:pool-15-thread-2:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client2.2
+2014-11-12 21:13:58,248 [Server.java:pool-15-thread-2:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client2.2
+2014-11-12 21:13:58,252 [Server.java:pool-20-thread-2:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:13:58,255 [Server.java:pool-20-thread-2:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client2.2
+2014-11-12 21:13:58,256 [Server.java:pool-20-thread-2:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:13:59,249 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:13:59,268 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:13:59,273 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:13:59,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:00,188 [Server.java:pool-21-thread-2:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61736
+2014-11-12 21:14:00,193 [Server.java:pool-21-thread-2:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client2.3
+2014-11-12 21:14:00,193 [Server.java:pool-21-thread-2:648] - icici::HEAD::server1:: ReqId: icici.client2.3-Withdraw operation complete new balance is : 100.0
+2014-11-12 21:14:00,193 [Server.java:pool-21-thread-2:867] - icici::HEAD::server1:: Received Request No -icici.client2.3
+2014-11-12 21:14:00,193 [Server.java:pool-21-thread-2:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9998
+2014-11-12 21:14:00,194 [Server.java:pool-21-thread-2:671] - icici::HEAD::server1:: ReqId: icici.client2.3-Sendin sync to successor
+2014-11-12 21:14:00,198 [Server.java:pool-14-thread-3:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client2.3","accountNum":123457,"amount":100.0,"replyPort":10003}
+2014-11-12 21:14:00,200 [Server.java:pool-14-thread-3:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client2.3
+2014-11-12 21:14:00,200 [Server.java:pool-14-thread-3:648] - icici::NORMAL::server2:: ReqId: icici.client2.3-Withdraw operation complete new balance is : 100.0
+2014-11-12 21:14:00,201 [Server.java:pool-14-thread-3:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9998
+2014-11-12 21:14:00,201 [Server.java:pool-14-thread-3:671] - icici::NORMAL::server2:: ReqId: icici.client2.3-Sendin sync to successor
+2014-11-12 21:14:00,208 [Server.java:pool-9-thread-3:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client2.3","accountNum":123457,"amount":100.0,"replyPort":10003}
+2014-11-12 21:14:00,211 [Server.java:pool-9-thread-3:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client2.3
+2014-11-12 21:14:00,212 [Server.java:pool-9-thread-3:648] - icici::NORMAL::server3:: ReqId: icici.client2.3-Withdraw operation complete new balance is : 100.0
+2014-11-12 21:14:00,212 [Server.java:pool-9-thread-3:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9998
+2014-11-12 21:14:00,212 [Server.java:pool-9-thread-3:671] - icici::NORMAL::server3:: ReqId: icici.client2.3-Sendin sync to successor
+2014-11-12 21:14:00,216 [Server.java:pool-4-thread-3:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client2.3","accountNum":123457,"amount":100.0,"replyPort":10003}
+2014-11-12 21:14:00,219 [Server.java:pool-4-thread-3:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client2.3
+2014-11-12 21:14:00,219 [Server.java:pool-4-thread-3:648] - icici::TAIL::server4:: ReqId: icici.client2.3-Withdraw operation complete new balance is : 100.0
+2014-11-12 21:14:00,219 [Server.java:pool-4-thread-3:918] - icici::TAIL::server4::  ReqId: icici.client2.3 Sending reply to client and ack to predecessor
+2014-11-12 21:14:00,220 [Server.java:pool-4-thread-3:688] - icici::TAIL::server4::  ReqId: icici.client2.3Reply to client : /127.0.0.1 port:61736
+2014-11-12 21:14:00,223 [Server.java:pool-4-thread-3:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:14:00,223 [Server.java:pool-4-thread-3:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client2.3
+2014-11-12 21:14:00,227 [Server.java:pool-10-thread-4:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:14:00,231 [Server.java:pool-10-thread-4:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client2.3
+2014-11-12 21:14:00,231 [Server.java:pool-10-thread-4:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client2.3
+2014-11-12 21:14:00,236 [Server.java:pool-15-thread-4:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:14:00,239 [Server.java:pool-15-thread-4:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client2.3
+2014-11-12 21:14:00,239 [Server.java:pool-15-thread-4:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client2.3
+2014-11-12 21:14:00,244 [Server.java:pool-20-thread-4:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:14:00,247 [Server.java:pool-20-thread-4:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client2.3
+2014-11-12 21:14:00,248 [Server.java:pool-20-thread-4:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:14:01,249 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:01,270 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:01,274 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:01,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:02,185 [Server.java:pool-5-thread-1:773] - icici::TAIL::server4:: Received client Query request..127.0.0.1 port 61738
+2014-11-12 21:14:02,193 [Server.java:pool-5-thread-1:804] - icici::TAIL::server4:: tail account is null
+2014-11-12 21:14:02,193 [Server.java:pool-5-thread-1:736] - icici::TAIL::server4:: New Account created with account no : 123458
+2014-11-12 21:14:02,199 [Server.java:pool-5-thread-1:825] - icici::TAIL::server4:: Client qurey replied..
+2014-11-12 21:14:02,199 [Server.java:pool-5-thread-1:829] - icici::TAIL::server4:: sendSyncToSuccessor - lifeMsgs: 9997
+2014-11-12 21:14:03,250 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:03,270 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:03,275 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:03,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:04,200 [Server.java:pool-21-thread-1:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61740
+2014-11-12 21:14:04,206 [Server.java:pool-21-thread-1:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client3.2
+2014-11-12 21:14:04,206 [Server.java:pool-21-thread-1:736] - icici::HEAD::server1:: New Account created with account no : 123458
+2014-11-12 21:14:04,207 [Server.java:pool-21-thread-1:639] - icici::HEAD::server1:: ReqId: icici.client3.2-Deposit operation complete new balance is : 500.0
+2014-11-12 21:14:04,207 [Server.java:pool-21-thread-1:867] - icici::HEAD::server1:: Received Request No -icici.client3.2
+2014-11-12 21:14:04,208 [Server.java:pool-21-thread-1:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9997
+2014-11-12 21:14:04,208 [Server.java:pool-21-thread-1:671] - icici::HEAD::server1:: ReqId: icici.client3.2-Sendin sync to successor
+2014-11-12 21:14:04,213 [Server.java:pool-14-thread-5:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client3.2","accountNum":123458,"amount":500.0,"replyPort":10004}
+2014-11-12 21:14:04,216 [Server.java:pool-14-thread-5:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client3.2
+2014-11-12 21:14:04,217 [Server.java:pool-14-thread-5:736] - icici::NORMAL::server2:: New Account created with account no : 123458
+2014-11-12 21:14:04,217 [Server.java:pool-14-thread-5:639] - icici::NORMAL::server2:: ReqId: icici.client3.2-Deposit operation complete new balance is : 500.0
+2014-11-12 21:14:04,217 [Server.java:pool-14-thread-5:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9997
+2014-11-12 21:14:04,217 [Server.java:pool-14-thread-5:671] - icici::NORMAL::server2:: ReqId: icici.client3.2-Sendin sync to successor
+2014-11-12 21:14:04,221 [Server.java:pool-9-thread-5:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client3.2","accountNum":123458,"amount":500.0,"replyPort":10004}
+2014-11-12 21:14:04,224 [Server.java:pool-9-thread-5:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client3.2
+2014-11-12 21:14:04,224 [Server.java:pool-9-thread-5:736] - icici::NORMAL::server3:: New Account created with account no : 123458
+2014-11-12 21:14:04,224 [Server.java:pool-9-thread-5:639] - icici::NORMAL::server3:: ReqId: icici.client3.2-Deposit operation complete new balance is : 500.0
+2014-11-12 21:14:04,224 [Server.java:pool-9-thread-5:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9997
+2014-11-12 21:14:04,224 [Server.java:pool-9-thread-5:671] - icici::NORMAL::server3:: ReqId: icici.client3.2-Sendin sync to successor
+2014-11-12 21:14:04,228 [Server.java:pool-4-thread-5:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client3.2","accountNum":123458,"amount":500.0,"replyPort":10004}
+2014-11-12 21:14:04,231 [Server.java:pool-4-thread-5:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client3.2
+2014-11-12 21:14:04,231 [Server.java:pool-4-thread-5:639] - icici::TAIL::server4:: ReqId: icici.client3.2-Deposit operation complete new balance is : 500.0
+2014-11-12 21:14:04,231 [Server.java:pool-4-thread-5:918] - icici::TAIL::server4::  ReqId: icici.client3.2 Sending reply to client and ack to predecessor
+2014-11-12 21:14:04,231 [Server.java:pool-4-thread-5:688] - icici::TAIL::server4::  ReqId: icici.client3.2Reply to client : /127.0.0.1 port:61740
+2014-11-12 21:14:04,235 [Server.java:pool-4-thread-5:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:14:04,235 [Server.java:pool-4-thread-5:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client3.2
+2014-11-12 21:14:04,241 [Server.java:pool-10-thread-2:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:14:04,245 [Server.java:pool-10-thread-2:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client3.2
+2014-11-12 21:14:04,245 [Server.java:pool-10-thread-2:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client3.2
+2014-11-12 21:14:04,249 [Server.java:pool-15-thread-2:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:14:04,252 [Server.java:pool-15-thread-2:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client3.2
+2014-11-12 21:14:04,253 [Server.java:pool-15-thread-2:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client3.2
+2014-11-12 21:14:04,257 [Server.java:pool-20-thread-2:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:14:04,261 [Server.java:pool-20-thread-2:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client3.2
+2014-11-12 21:14:04,261 [Server.java:pool-20-thread-2:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:14:05,250 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:05,270 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:05,276 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:05,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:06,202 [Server.java:pool-21-thread-2:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61742
+2014-11-12 21:14:06,224 [Server.java:pool-21-thread-2:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client3.3
+2014-11-12 21:14:06,224 [Server.java:pool-21-thread-2:648] - icici::HEAD::server1:: ReqId: icici.client3.3-Withdraw operation complete new balance is : 300.0
+2014-11-12 21:14:06,224 [Server.java:pool-21-thread-2:867] - icici::HEAD::server1:: Received Request No -icici.client3.3
+2014-11-12 21:14:06,224 [Server.java:pool-21-thread-2:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9996
+2014-11-12 21:14:06,224 [Server.java:pool-21-thread-2:671] - icici::HEAD::server1:: ReqId: icici.client3.3-Sendin sync to successor
+2014-11-12 21:14:06,227 [Server.java:pool-14-thread-7:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client3.3","accountNum":123458,"amount":200.0,"replyPort":10004}
+2014-11-12 21:14:06,231 [Server.java:pool-14-thread-7:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client3.3
+2014-11-12 21:14:06,231 [Server.java:pool-14-thread-7:648] - icici::NORMAL::server2:: ReqId: icici.client3.3-Withdraw operation complete new balance is : 300.0
+2014-11-12 21:14:06,231 [Server.java:pool-14-thread-7:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9996
+2014-11-12 21:14:06,232 [Server.java:pool-14-thread-7:671] - icici::NORMAL::server2:: ReqId: icici.client3.3-Sendin sync to successor
+2014-11-12 21:14:06,235 [Server.java:pool-9-thread-7:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client3.3","accountNum":123458,"amount":200.0,"replyPort":10004}
+2014-11-12 21:14:06,238 [Server.java:pool-9-thread-7:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client3.3
+2014-11-12 21:14:06,238 [Server.java:pool-9-thread-7:648] - icici::NORMAL::server3:: ReqId: icici.client3.3-Withdraw operation complete new balance is : 300.0
+2014-11-12 21:14:06,238 [Server.java:pool-9-thread-7:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9996
+2014-11-12 21:14:06,239 [Server.java:pool-9-thread-7:671] - icici::NORMAL::server3:: ReqId: icici.client3.3-Sendin sync to successor
+2014-11-12 21:14:06,242 [Server.java:pool-4-thread-7:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client3.3","accountNum":123458,"amount":200.0,"replyPort":10004}
+2014-11-12 21:14:06,245 [Server.java:pool-4-thread-7:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client3.3
+2014-11-12 21:14:06,245 [Server.java:pool-4-thread-7:648] - icici::TAIL::server4:: ReqId: icici.client3.3-Withdraw operation complete new balance is : 300.0
+2014-11-12 21:14:06,245 [Server.java:pool-4-thread-7:918] - icici::TAIL::server4::  ReqId: icici.client3.3 Sending reply to client and ack to predecessor
+2014-11-12 21:14:06,245 [Server.java:pool-4-thread-7:688] - icici::TAIL::server4::  ReqId: icici.client3.3Reply to client : /127.0.0.1 port:61742
+2014-11-12 21:14:06,248 [Server.java:pool-4-thread-7:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:14:06,248 [Server.java:pool-4-thread-7:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client3.3
+2014-11-12 21:14:06,252 [Server.java:pool-10-thread-4:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:14:06,256 [Server.java:pool-10-thread-4:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client3.3
+2014-11-12 21:14:06,256 [Server.java:pool-10-thread-4:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client3.3
+2014-11-12 21:14:06,260 [Server.java:pool-15-thread-4:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:14:06,263 [Server.java:pool-15-thread-4:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client3.3
+2014-11-12 21:14:06,263 [Server.java:pool-15-thread-4:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client3.3
+2014-11-12 21:14:06,267 [Server.java:pool-20-thread-4:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:14:06,269 [Server.java:pool-20-thread-4:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client3.3
+2014-11-12 21:14:06,270 [Server.java:pool-20-thread-4:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:14:07,250 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:07,272 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:07,276 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:07,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:09,251 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:09,274 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:09,279 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:09,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:11,251 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:11,275 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:11,282 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:11,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:12,899 [Server.java:pool-21-thread-1:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61744
+2014-11-12 21:14:12,905 [Server.java:pool-21-thread-1:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client1.2
+2014-11-12 21:14:12,905 [Server.java:pool-21-thread-1:736] - icici::HEAD::server1:: New Account created with account no : 123456
+2014-11-12 21:14:12,906 [Server.java:pool-21-thread-1:639] - icici::HEAD::server1:: ReqId: icici.client1.2-Deposit operation complete new balance is : 300.0
+2014-11-12 21:14:12,906 [Server.java:pool-21-thread-1:867] - icici::HEAD::server1:: Received Request No -icici.client1.2
+2014-11-12 21:14:12,907 [Server.java:pool-21-thread-1:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9995
+2014-11-12 21:14:12,907 [Server.java:pool-21-thread-1:671] - icici::HEAD::server1:: ReqId: icici.client1.2-Sendin sync to successor
+2014-11-12 21:14:12,914 [Server.java:pool-14-thread-9:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client1.2","accountNum":123456,"amount":300.0,"replyPort":10002}
+2014-11-12 21:14:12,918 [Server.java:pool-14-thread-9:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client1.2
+2014-11-12 21:14:12,918 [Server.java:pool-14-thread-9:736] - icici::NORMAL::server2:: New Account created with account no : 123456
+2014-11-12 21:14:12,918 [Server.java:pool-14-thread-9:639] - icici::NORMAL::server2:: ReqId: icici.client1.2-Deposit operation complete new balance is : 300.0
+2014-11-12 21:14:12,918 [Server.java:pool-14-thread-9:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9995
+2014-11-12 21:14:12,919 [Server.java:pool-14-thread-9:671] - icici::NORMAL::server2:: ReqId: icici.client1.2-Sendin sync to successor
+2014-11-12 21:14:12,922 [Server.java:pool-9-thread-9:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client1.2","accountNum":123456,"amount":300.0,"replyPort":10002}
+2014-11-12 21:14:12,925 [Server.java:pool-9-thread-9:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client1.2
+2014-11-12 21:14:12,925 [Server.java:pool-9-thread-9:736] - icici::NORMAL::server3:: New Account created with account no : 123456
+2014-11-12 21:14:12,925 [Server.java:pool-9-thread-9:639] - icici::NORMAL::server3:: ReqId: icici.client1.2-Deposit operation complete new balance is : 300.0
+2014-11-12 21:14:12,925 [Server.java:pool-9-thread-9:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9995
+2014-11-12 21:14:12,925 [Server.java:pool-9-thread-9:671] - icici::NORMAL::server3:: ReqId: icici.client1.2-Sendin sync to successor
+2014-11-12 21:14:12,928 [Server.java:pool-4-thread-9:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"DEPOSIT","reqID":"icici.client1.2","accountNum":123456,"amount":300.0,"replyPort":10002}
+2014-11-12 21:14:12,930 [Server.java:pool-4-thread-9:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client1.2
+2014-11-12 21:14:12,930 [Server.java:pool-4-thread-9:639] - icici::TAIL::server4:: ReqId: icici.client1.2-Deposit operation complete new balance is : 300.0
+2014-11-12 21:14:12,930 [Server.java:pool-4-thread-9:918] - icici::TAIL::server4::  ReqId: icici.client1.2 Sending reply to client and ack to predecessor
+2014-11-12 21:14:12,931 [Server.java:pool-4-thread-9:688] - icici::TAIL::server4::  ReqId: icici.client1.2Reply to client : /127.0.0.1 port:61744
+2014-11-12 21:14:12,933 [Server.java:pool-4-thread-9:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:14:12,934 [Server.java:pool-4-thread-9:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client1.2
+2014-11-12 21:14:12,939 [Server.java:pool-10-thread-2:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:14:12,942 [Server.java:pool-10-thread-2:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client1.2
+2014-11-12 21:14:12,942 [Server.java:pool-10-thread-2:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client1.2
+2014-11-12 21:14:12,946 [Server.java:pool-15-thread-2:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:14:12,950 [Server.java:pool-15-thread-2:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client1.2
+2014-11-12 21:14:12,951 [Server.java:pool-15-thread-2:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client1.2
+2014-11-12 21:14:12,955 [Server.java:pool-20-thread-2:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:14:12,959 [Server.java:pool-20-thread-2:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client1.2
+2014-11-12 21:14:12,960 [Server.java:pool-20-thread-2:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:14:13,251 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:13,276 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:13,282 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:13,296 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:14,910 [Server.java:pool-21-thread-2:858] - icici::HEAD::server1:: Received client Update request..127.0.0.1 port 61746
+2014-11-12 21:14:14,919 [Server.java:pool-21-thread-2:756] - icici::HEAD::server1:: ProcessRequest method called..icici.client1.3
+2014-11-12 21:14:14,919 [Server.java:pool-21-thread-2:867] - icici::HEAD::server1:: Received Request No -icici.client1.3
+2014-11-12 21:14:14,920 [Server.java:pool-21-thread-2:656] - icici::HEAD::server1:: sendSyncToSuccessor - lifeMsgs: 9994
+2014-11-12 21:14:14,920 [Server.java:pool-21-thread-2:671] - icici::HEAD::server1:: ReqId: icici.client1.3-Sendin sync to successor
+2014-11-12 21:14:14,947 [Server.java:pool-14-thread-1:893] - icici::NORMAL::server2:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client1.3","accountNum":123456,"amount":600.0,"replyPort":10002}
+2014-11-12 21:14:14,950 [Server.java:pool-14-thread-1:756] - icici::NORMAL::server2:: ProcessRequest method called..icici.client1.3
+2014-11-12 21:14:14,950 [Server.java:pool-14-thread-1:656] - icici::NORMAL::server2:: sendSyncToSuccessor - lifeMsgs: 9994
+2014-11-12 21:14:14,950 [Server.java:pool-14-thread-1:671] - icici::NORMAL::server2:: ReqId: icici.client1.3-Sendin sync to successor
+2014-11-12 21:14:14,953 [Server.java:pool-9-thread-1:893] - icici::NORMAL::server3:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client1.3","accountNum":123456,"amount":600.0,"replyPort":10002}
+2014-11-12 21:14:14,956 [Server.java:pool-9-thread-1:756] - icici::NORMAL::server3:: ProcessRequest method called..icici.client1.3
+2014-11-12 21:14:14,956 [Server.java:pool-9-thread-1:656] - icici::NORMAL::server3:: sendSyncToSuccessor - lifeMsgs: 9994
+2014-11-12 21:14:14,956 [Server.java:pool-9-thread-1:671] - icici::NORMAL::server3:: ReqId: icici.client1.3-Sendin sync to successor
+2014-11-12 21:14:14,959 [Server.java:pool-4-thread-1:893] - icici::TAIL::server4:: Sync from predecessor {"operationType":"WITHDRAW","reqID":"icici.client1.3","accountNum":123456,"amount":600.0,"replyPort":10002}
+2014-11-12 21:14:14,961 [Server.java:pool-4-thread-1:756] - icici::TAIL::server4:: ProcessRequest method called..icici.client1.3
+2014-11-12 21:14:14,961 [Server.java:pool-4-thread-1:918] - icici::TAIL::server4::  ReqId: icici.client1.3 Sending reply to client and ack to predecessor
+2014-11-12 21:14:14,962 [Server.java:pool-4-thread-1:688] - icici::TAIL::server4::  ReqId: icici.client1.3Reply to client : /127.0.0.1 port:61746
+2014-11-12 21:14:14,964 [Server.java:pool-4-thread-1:713] - icici::TAIL::server4:: ReplyToClient success
+2014-11-12 21:14:14,964 [Server.java:pool-4-thread-1:424] - icici::TAIL::server4:: Sending ack to predecessor-icici.client1.3
+2014-11-12 21:14:14,971 [Server.java:pool-10-thread-4:441] - icici::NORMAL::server3:: Received ack from predecessor
+2014-11-12 21:14:14,979 [Server.java:pool-10-thread-4:449] - icici::NORMAL::server3:: Received ack from predecessor- ReqId: icici.client1.3
+2014-11-12 21:14:14,979 [Server.java:pool-10-thread-4:424] - icici::NORMAL::server3:: Sending ack to predecessor-icici.client1.3
+2014-11-12 21:14:14,982 [Server.java:pool-15-thread-4:441] - icici::NORMAL::server2:: Received ack from predecessor
+2014-11-12 21:14:14,986 [Server.java:pool-15-thread-4:449] - icici::NORMAL::server2:: Received ack from predecessor- ReqId: icici.client1.3
+2014-11-12 21:14:14,986 [Server.java:pool-15-thread-4:424] - icici::NORMAL::server2:: Sending ack to predecessor-icici.client1.3
+2014-11-12 21:14:14,991 [Server.java:pool-20-thread-4:441] - icici::HEAD::server1:: Received ack from predecessor
+2014-11-12 21:14:14,994 [Server.java:pool-20-thread-4:449] - icici::HEAD::server1:: Received ack from predecessor- ReqId: icici.client1.3
+2014-11-12 21:14:14,994 [Server.java:pool-20-thread-4:466] - icici::HEAD::server1:: Ack received at HEAD
+2014-11-12 21:14:15,253 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:15,277 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:15,283 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:15,297 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:17,253 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:17,277 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:17,283 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:17,297 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:19,253 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:19,284 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:19,300 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:19,302 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:21,254 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:21,300 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:21,301 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:21,303 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:23,256 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:23,301 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:23,303 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:23,306 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:25,259 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:25,301 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:25,304 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:25,306 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:27,260 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:27,301 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:27,304 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:27,306 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:29,261 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:29,301 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:29,305 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:29,307 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:31,262 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:31,302 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:31,308 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:31,309 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:33,269 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:33,304 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:33,308 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:33,311 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:35,269 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:35,305 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:35,309 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:35,312 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:37,270 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:37,305 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:37,309 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:37,312 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:39,270 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:39,305 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:39,310 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:39,313 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:41,271 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:41,306 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:41,311 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:41,316 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:43,271 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:43,306 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:43,311 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:43,318 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:45,272 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:45,306 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:45,311 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:45,320 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:47,272 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:47,307 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:47,311 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:47,321 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:49,273 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:49,309 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:49,313 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:49,323 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:51,273 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:51,309 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:51,314 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:51,323 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:53,278 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:53,309 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:53,315 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:53,324 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:55,278 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:55,310 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:55,318 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:55,325 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:57,279 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:57,311 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:57,318 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:57,327 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:14:59,280 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:14:59,312 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:14:59,318 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:14:59,328 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:01,280 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:01,313 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:01,319 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:01,331 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:03,280 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:03,316 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:03,322 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:03,331 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:05,281 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:05,316 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:05,323 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:05,331 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:07,283 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:07,317 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:07,324 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:07,332 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:09,283 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:09,317 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:09,325 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:09,332 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:11,283 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:11,317 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:11,330 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:11,332 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:13,285 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:13,318 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:13,330 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:13,337 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:15,285 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:15,319 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:15,330 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:15,337 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:17,285 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:17,319 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:17,330 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:17,341 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:19,285 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:19,320 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:19,331 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:19,341 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:21,285 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:21,321 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:21,331 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:21,343 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:23,286 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:23,321 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:23,331 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:23,343 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:25,287 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:25,329 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:25,332 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:25,351 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:27,287 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:27,329 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:27,334 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:27,352 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:29,288 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:29,329 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:29,334 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:29,352 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping
+2014-11-12 21:15:31,289 [Server.java:pool-3-thread-1:167] - icici::TAIL::server4:: true sending heart beat icici:4:127.0.0.1:8890:ping
+2014-11-12 21:15:31,329 [Server.java:pool-8-thread-1:167] - icici::NORMAL::server3:: true sending heart beat icici:3:127.0.0.1:8889:ping
+2014-11-12 21:15:31,334 [Server.java:pool-13-thread-1:167] - icici::NORMAL::server2:: true sending heart beat icici:2:127.0.0.1:8888:ping
+2014-11-12 21:15:31,362 [Server.java:pool-18-thread-1:167] - icici::HEAD::server1:: true sending heart beat icici:1:127.0.0.1:8887:ping

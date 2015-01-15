@@ -1,0 +1,236 @@
+2014-11-12 22:43:26,182 [MasterSpawn.java:main:44] - MasterSpawn Master Started: 127.0.0.1:7001
+2014-11-12 22:43:26,184 [MasterSpawn.java:main:48] - MasterSpawn Num of Banks for initiation: 1
+2014-11-12 22:43:26,184 [MasterSpawn.java:main:52] - MasterSpawn bankname: icici
+2014-11-12 22:43:26,185 [MasterSpawn.java:main:59] - MasterSpawn initialchainlength: 4
+2014-11-12 22:43:26,200 [Master.java:main:62] - Master  master tcp server started ip: 127.0.0.1 port: 7001
+2014-11-12 22:43:26,201 [Master.java:main:76] - Master checkServerFailure
+2014-11-12 22:43:34,767 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:34,776 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:34,777 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:34,777 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:34,782 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:34,782 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:34,784 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:34,784 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:36,753 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:36,754 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:36,774 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:36,775 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:36,791 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:36,792 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:36,792 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:36,792 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:38,753 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:38,754 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:38,775 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:38,775 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:38,791 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:38,792 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:38,795 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:38,796 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:40,754 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:40,755 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:40,775 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:40,776 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:40,790 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:40,790 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:40,805 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:40,805 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:42,756 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:42,757 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:42,777 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:42,777 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:42,791 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:42,791 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:42,806 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:42,806 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:44,756 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:44,756 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:44,781 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:44,781 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:44,792 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:44,792 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:44,806 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:44,806 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:46,759 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:46,760 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:46,780 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:46,780 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:46,791 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:46,791 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:46,806 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:46,806 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:48,759 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:48,759 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:48,781 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:48,782 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:48,793 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:48,793 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:48,807 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:48,807 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:50,769 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:50,769 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:50,781 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:50,781 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:50,792 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:50,793 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:50,806 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:50,807 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:52,774 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:52,775 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:52,781 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:52,782 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:52,813 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:52,813 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:2:127.0.0.1:8888:ping-from: 127.0.0.1
+2014-11-12 22:43:52,814 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:52,815 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:54,775 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:54,776 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:54,786 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:54,786 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:54,815 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:54,815 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:56,777 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:56,777 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:56,785 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:56,786 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:56,815 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:56,815 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:58,780 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:58,781 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:43:58,793 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:58,794 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:43:58,816 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:43:58,816 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:00,780 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:00,781 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:00,793 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:44:00,793 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:44:00,820 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:00,821 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:02,783 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:02,784 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:02,792 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:44:02,793 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:3:127.0.0.1:8889:ping-from: 127.0.0.1
+2014-11-12 22:44:02,816 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:02,816 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:03,208 [Master.java:pool-2-thread-1:106] - Master icici serverFailed: 
+2014-11-12 22:44:03,208 [Master.java:pool-2-thread-1:212] - Master icici normal server failed ip 127.0.0.1:8888
+2014-11-12 22:44:04,231 [Master.java:pool-2-thread-1:227] - Master data sent to ip: 127.0.0.1 port: 8889
+2014-11-12 22:44:04,232 [Master.java:pool-2-thread-1:233] - Master icici remove server from chain127.0.0.1:8888 start
+2014-11-12 22:44:04,232 [Master.java:pool-2-thread-1:253] - Master icici normal server failed ip 127.0.0.1:8888 list updated
+2014-11-12 22:44:04,259 [Master.java:pool-1-thread-6:374] - Master receiveSentList- 127.0.0.1-8888-127.0.0.1-8887-icici-127.0.0.1-8889-[{"reqID":"icici.client1.2","accountNum":123456,"operation":"DEPOSIT","amount":300.0,"outcome":"PROCESSED","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client1.3","accountNum":123456,"operation":"WITHDRAW","amount":600.0,"outcome":"INSUFFICIENTFUNDS","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client2.2","accountNum":123457,"operation":"DEPOSIT","amount":200.0,"outcome":"PROCESSED","balance":200.0,"replyPort":10003,"account":123457}]
+2014-11-12 22:44:04,259 [Master.java:pool-1-thread-6:387] - Master predServerIp:127.0.0.1 predServerPort:8887 msg:[{"reqID":"icici.client1.2","accountNum":123456,"operation":"DEPOSIT","amount":300.0,"outcome":"PROCESSED","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client1.3","accountNum":123456,"operation":"WITHDRAW","amount":600.0,"outcome":"INSUFFICIENTFUNDS","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client2.2","accountNum":123457,"operation":"DEPOSIT","amount":200.0,"outcome":"PROCESSED","balance":200.0,"replyPort":10003,"account":123457}]
+2014-11-12 22:44:04,264 [Master.java:pool-1-thread-6:393] - Master successor data sent to predecessor
+2014-11-12 22:44:04,797 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:04,798 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:04,815 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:04,816 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:06,797 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:06,798 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:06,817 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:06,818 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:08,803 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:08,803 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:08,820 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:08,820 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:10,801 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:10,802 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:10,821 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:10,822 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:12,802 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:12,803 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:12,822 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:12,822 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:13,233 [Master.java:pool-2-thread-1:106] - Master icici serverFailed: 
+2014-11-12 22:44:13,233 [Master.java:pool-2-thread-1:212] - Master icici normal server failed ip 127.0.0.1:8889
+2014-11-12 22:44:14,237 [Master.java:pool-2-thread-1:227] - Master data sent to ip: 127.0.0.1 port: 8890
+2014-11-12 22:44:14,238 [Master.java:pool-2-thread-1:233] - Master icici remove server from chain127.0.0.1:8889 start
+2014-11-12 22:44:14,238 [Master.java:pool-2-thread-1:253] - Master icici normal server failed ip 127.0.0.1:8889 list updated
+2014-11-12 22:44:14,261 [Master.java:pool-1-thread-7:374] - Master receiveSentList- 127.0.0.1-8889-127.0.0.1-8887-icici-127.0.0.1-8890-[{"reqID":"icici.client1.2","accountNum":123456,"operation":"DEPOSIT","amount":300.0,"outcome":"PROCESSED","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client1.3","accountNum":123456,"operation":"WITHDRAW","amount":600.0,"outcome":"INSUFFICIENTFUNDS","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client2.2","accountNum":123457,"operation":"DEPOSIT","amount":200.0,"outcome":"PROCESSED","balance":200.0,"replyPort":10003,"account":123457}]
+2014-11-12 22:44:14,261 [Master.java:pool-1-thread-7:387] - Master predServerIp:127.0.0.1 predServerPort:8887 msg:[{"reqID":"icici.client1.2","accountNum":123456,"operation":"DEPOSIT","amount":300.0,"outcome":"PROCESSED","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client1.3","accountNum":123456,"operation":"WITHDRAW","amount":600.0,"outcome":"INSUFFICIENTFUNDS","balance":300.0,"replyPort":10002,"account":123456},{"reqID":"icici.client2.2","accountNum":123457,"operation":"DEPOSIT","amount":200.0,"outcome":"PROCESSED","balance":200.0,"replyPort":10003,"account":123457}]
+2014-11-12 22:44:14,264 [Master.java:pool-1-thread-7:393] - Master successor data sent to predecessor
+2014-11-12 22:44:14,804 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:14,805 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:14,822 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:14,822 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:16,807 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:16,808 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:16,824 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:16,825 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:18,808 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:18,808 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:18,825 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:18,825 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:20,808 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:20,809 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:20,825 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:20,826 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:22,811 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:22,811 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:22,825 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:22,826 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:24,811 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:24,812 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:24,827 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:24,828 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:26,809 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:26,810 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:26,825 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:26,825 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:28,812 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:28,812 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:28,843 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:28,843 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:30,811 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:30,812 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:30,843 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:30,845 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:32,816 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:32,816 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:32,848 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:32,848 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:34,817 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:34,818 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:34,848 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:34,848 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:36,820 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:36,821 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:36,849 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:36,849 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:38,820 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:38,821 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:38,850 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:38,850 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:40,821 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:40,822 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:40,850 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:40,850 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:42,822 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:42,823 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:42,851 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:42,851 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:44,823 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:44,827 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:44,851 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:44,852 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:46,826 [Master.java:pool-1-thread-10:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:46,827 [Master.java:pool-1-thread-10:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:46,852 [Master.java:pool-1-thread-1:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:46,852 [Master.java:pool-1-thread-1:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:48,841 [Master.java:pool-1-thread-2:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:48,841 [Master.java:pool-1-thread-2:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:48,855 [Master.java:pool-1-thread-3:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:48,855 [Master.java:pool-1-thread-3:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:50,830 [Master.java:pool-1-thread-4:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:50,830 [Master.java:pool-1-thread-4:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:50,853 [Master.java:pool-1-thread-5:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:50,853 [Master.java:pool-1-thread-5:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:52,832 [Master.java:pool-1-thread-6:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:52,833 [Master.java:pool-1-thread-6:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:52,854 [Master.java:pool-1-thread-7:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:52,855 [Master.java:pool-1-thread-7:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:54,831 [Master.java:pool-1-thread-8:438] - Master receiveHB: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:54,832 [Master.java:pool-1-thread-8:455] - Master Setting time for ip: icici:4:127.0.0.1:8890:ping-from: 127.0.0.1
+2014-11-12 22:44:54,854 [Master.java:pool-1-thread-9:438] - Master receiveHB: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1
+2014-11-12 22:44:54,855 [Master.java:pool-1-thread-9:455] - Master Setting time for ip: icici:1:127.0.0.1:8887:ping-from: 127.0.0.1

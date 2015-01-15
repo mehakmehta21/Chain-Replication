@@ -1,0 +1,73 @@
+1.head failure testcase:
+	Description:
+		this test case checks when the head failes in the chain.
+	configuration file:
+		config/config_head_failure.ini
+	log file:
+		log/head_failure.log
+
+2.tail failure testcase:
+	Description:
+		this test case checks when the tail failes in the chain.
+	configuration file:
+		config/config_tail_failure.ini
+	log file:
+		log/tail_failure.log
+
+2.Intermediate server failure testcase:
+	Description:
+		this test case tests when one of the intermediate servers fails
+	configuration file:
+		config/config_intermediate_server_failure.ini
+	log file:
+		log/intermediate_server_failure.log
+
+4. Intermediate server failure and after that immediately its successor server fails testcase:
+	Description:
+		this test case tests when one of the intermediate servers fails and immediately after that its successor fails.
+	configuration file:
+		config/config_s_splus_failure.ini
+	log file:
+		log/s_splus_failure.log
+
+5. Intermediate server failure and after that immediately its predecessor server fails testcase:
+	Description:
+		this test case tests when one of the intermediate servers fails and immediately after that its predecessor fails.
+	configuration file:
+		config/config_s_sminus.ini
+	log file:
+		log/s_sminus_failure.log
+
+6. network message loss testcase:
+	Description:
+		in this test case client ignores some messages and resends them again assuming as lost network packets.
+		config/config_message_loss.ini
+	log file:
+		log/message_loss_clientside.log
+
+7. Normal chain extension test case:
+	Description:
+		this test case checks the normal chain extension scenario . 
+	configuration file:
+		config/config_chainextension_normal.ini
+	log file:
+		log/chainextension_normal.log
+
+8. during chain extension current tail failure test case:
+	Description:
+		this test case checks when current tail fails during chain extension phase.
+	configuration file:
+		config/config_extendedchain_currenttail_failure.ini
+	log file:
+		log/chainextension_currenttail_failure.log
+
+9. during chain extension new servers failure test case:
+	Description:
+		this test case checks then new servers fails during chain extension phase
+	configuration file:
+		config/config_new_server_crash.ini
+	log file:
+		log/new_extended_server_crash.log
+
+
+

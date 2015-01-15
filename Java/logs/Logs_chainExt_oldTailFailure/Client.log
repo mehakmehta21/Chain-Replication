@@ -1,0 +1,48 @@
+2014-11-12 20:05:02,778 [ClientSpawn.java:main:56] - ClientSpawnClient initiation for bank: icici
+2014-11-12 20:05:02,787 [Client.java:main:63] - icici::client1:: Client Initiated with clientIp: 127.0.0.1 clientPort: 10002 headServerIp: 127.0.0.1 headPort: 9876 tailServerIp: 127.0.0.1 tailPort: 9878
+2014-11-12 20:05:02,800 [Client.java:main:179] - icici::client1:: UDP server socket for receiving update reply opened successfully...
+2014-11-12 20:05:02,803 [Client.java:main:63] - icici::client2:: Client Initiated with clientIp: 127.0.0.1 clientPort: 10003 headServerIp: 127.0.0.1 headPort: 9876 tailServerIp: 127.0.0.1 tailPort: 9878
+2014-11-12 20:05:02,803 [Client.java:main:179] - icici::client2:: UDP server socket for receiving update reply opened successfully...
+2014-11-12 20:05:02,807 [Client.java:main:63] - icici::client3:: Client Initiated with clientIp: 127.0.0.1 clientPort: 10004 headServerIp: 127.0.0.1 headPort: 9876 tailServerIp: 127.0.0.1 tailPort: 9878
+2014-11-12 20:05:02,807 [Client.java:main:179] - icici::client3:: UDP server socket for receiving update reply opened successfully...
+2014-11-12 20:05:02,815 [Client.java:main:233] - icici::client1:: UDP client socket for tail opened successfully...127.0.0.1:9878
+2014-11-12 20:05:03,054 [Client.java:main:246] - icici::client1:: Queried the bank {"operationType":"QUERY","reqID":"icici.client1.1","accountNum":123456,"amount":0.0,"replyPort":0}
+2014-11-12 20:05:03,359 [Client.java:pool-7-thread-2:131] - icici::client1:: Reply from bank : reqID icici.client1.1 outcome PROCESSED balance 0.0
+2014-11-12 20:05:05,055 [Client.java:main:196] - icici::client1:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:05,068 [Client.java:main:213] - icici::client1::  sending update request : {"operationType":"DEPOSIT","reqID":"icici.client1.2","accountNum":123456,"amount":300.0,"replyPort":10002}
+2014-11-12 20:05:05,147 [Client.java:pool-8-thread-2:131] - icici::client1:: Reply from bank : reqID icici.client1.2 outcome PROCESSED balance 300.0
+2014-11-12 20:05:07,069 [Client.java:main:196] - icici::client1:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:07,075 [Client.java:main:213] - icici::client1::  sending update request : {"operationType":"WITHDRAW","reqID":"icici.client1.3","accountNum":123456,"amount":600.0,"replyPort":10002}
+2014-11-12 20:05:07,138 [Client.java:pool-9-thread-2:131] - icici::client1:: Reply from bank : reqID icici.client1.3 outcome INSUFFICIENTFUNDS balance 300.0
+2014-11-12 20:05:09,076 [Client.java:main:233] - icici::client2:: UDP client socket for tail opened successfully...127.0.0.1:9878
+2014-11-12 20:05:09,085 [Client.java:main:246] - icici::client2:: Queried the bank {"operationType":"QUERY","reqID":"icici.client2.1","accountNum":123457,"amount":0.0,"replyPort":0}
+2014-11-12 20:05:11,088 [Client.java:main:196] - icici::client2:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:11,093 [Client.java:main:213] - icici::client2::  sending update request : {"operationType":"DEPOSIT","reqID":"icici.client2.2","accountNum":123457,"amount":200.0,"replyPort":10003}
+2014-11-12 20:05:13,095 [Client.java:main:196] - icici::client2:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:13,101 [Client.java:main:213] - icici::client2::  sending update request : {"operationType":"WITHDRAW","reqID":"icici.client2.3","accountNum":123457,"amount":100.0,"replyPort":10003}
+2014-11-12 20:05:15,104 [Client.java:main:233] - icici::client3:: UDP client socket for tail opened successfully...127.0.0.1:9878
+2014-11-12 20:05:15,112 [Client.java:main:246] - icici::client3:: Queried the bank {"operationType":"QUERY","reqID":"icici.client3.1","accountNum":123458,"amount":0.0,"replyPort":0}
+2014-11-12 20:05:17,143 [Client.java:main:196] - icici::client3:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:17,151 [Client.java:main:213] - icici::client3::  sending update request : {"operationType":"DEPOSIT","reqID":"icici.client3.2","accountNum":123458,"amount":500.0,"replyPort":10004}
+2014-11-12 20:05:17,153 [Client.java:pool-1-thread-1:106] - icici::client1:: Msg from Master : MSNT127.0.0.1:9877
+2014-11-12 20:05:17,155 [Client.java:pool-1-thread-1:108] - icici::client1:: NT127.0.0.1:9877
+2014-11-12 20:05:17,155 [Client.java:pool-1-thread-1:123] - icici::client1:: NewTail : 127.0.0.1:9877
+2014-11-12 20:05:17,161 [Client.java:pool-3-thread-1:106] - icici::client2:: Msg from Master : MSNT127.0.0.1:9877
+2014-11-12 20:05:17,170 [Client.java:pool-3-thread-1:108] - icici::client2:: NT127.0.0.1:9877
+2014-11-12 20:05:17,170 [Client.java:pool-3-thread-1:123] - icici::client2:: NewTail : 127.0.0.1:9877
+2014-11-12 20:05:17,169 [Client.java:pool-5-thread-1:106] - icici::client3:: Msg from Master : MSNT127.0.0.1:9877
+2014-11-12 20:05:17,172 [Client.java:pool-5-thread-1:108] - icici::client3:: NT127.0.0.1:9877
+2014-11-12 20:05:17,174 [Client.java:pool-5-thread-1:123] - icici::client3:: NewTail : 127.0.0.1:9877
+2014-11-12 20:05:17,185 [Client.java:pool-14-thread-2:131] - icici::client3:: Reply from bank : reqID icici.client3.2 outcome PROCESSED balance 500.0
+2014-11-12 20:05:17,197 [Client.java:pool-1-thread-2:106] - icici::client1:: Msg from Master : MSNT127.0.0.1:9879
+2014-11-12 20:05:17,198 [Client.java:pool-1-thread-2:108] - icici::client1:: NT127.0.0.1:9879
+2014-11-12 20:05:17,198 [Client.java:pool-1-thread-2:123] - icici::client1:: NewTail : 127.0.0.1:9879
+2014-11-12 20:05:17,199 [Client.java:pool-3-thread-2:106] - icici::client2:: Msg from Master : MSNT127.0.0.1:9879
+2014-11-12 20:05:17,200 [Client.java:pool-3-thread-2:108] - icici::client2:: NT127.0.0.1:9879
+2014-11-12 20:05:17,200 [Client.java:pool-5-thread-2:106] - icici::client3:: Msg from Master : MSNT127.0.0.1:9879
+2014-11-12 20:05:17,200 [Client.java:pool-5-thread-2:108] - icici::client3:: NT127.0.0.1:9879
+2014-11-12 20:05:17,200 [Client.java:pool-3-thread-2:123] - icici::client2:: NewTail : 127.0.0.1:9879
+2014-11-12 20:05:17,200 [Client.java:pool-5-thread-2:123] - icici::client3:: NewTail : 127.0.0.1:9879
+2014-11-12 20:05:19,183 [Client.java:main:196] - icici::client3:: UDP client socket for head opened successfully...127.0.0.1:9876
+2014-11-12 20:05:19,187 [Client.java:main:213] - icici::client3::  sending update request : {"operationType":"WITHDRAW","reqID":"icici.client3.3","accountNum":123458,"amount":200.0,"replyPort":10004}
+2014-11-12 20:05:19,253 [Client.java:pool-15-thread-2:131] - icici::client3:: Reply from bank : reqID icici.client3.3 outcome INSUFFICIENTFUNDS balance 0.0
