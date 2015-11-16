@@ -37,7 +37,7 @@ public class Master
 	
 	private boolean check;
 	
-    private final String MSTag = "MS"; // Master msg tag
+	private final String MSTag = "MS"; // Master msg tag
 	private final String NEWHEAD="NH";
 	private final String NEWTAIL="NT";
 	private final String NEWSUCCESSOR="NS";
@@ -255,10 +255,6 @@ public class Master
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			
-			
-					
-			
 		}
 		//return s;
 	}
@@ -275,8 +271,6 @@ public class Master
 		//int nwTailPort = Integer.parseInt(info[1]);
 		//int nwTailUdpPort = Integer.parseInt(info[2]);
 		String bname = info[3];
-
-		
 		
 		ServerInfo currTail = null;
 		for (ServerInfo serv : bankList.get(bname).getServerChain())

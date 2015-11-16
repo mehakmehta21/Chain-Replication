@@ -177,10 +177,5 @@ public class ProcessSpawn {
 		}
 		//master code
 		//master.setBankList(bankList);
-		
-		
-
-		
-		
 	}
 }

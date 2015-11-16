@@ -715,11 +715,9 @@ public class Server {
 			
 //			fUDPClient.Stop();
 		} catch (UnknownHostException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		//System.out.println(TAG + " replyToClient success");

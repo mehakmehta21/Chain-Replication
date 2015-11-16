@@ -175,8 +175,5 @@ public class MasterSpawn {
 			}
 		}*/
 		//client code ends
-		
-	
-		
 	}
 }

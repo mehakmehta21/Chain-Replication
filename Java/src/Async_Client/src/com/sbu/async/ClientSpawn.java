@@ -49,7 +49,6 @@ public class ClientSpawn {
 		
 		for(int t=1; t <= bankNo; t++)
 		{
-			System.out.println("******************************************" + prop.getProperty("bank"+t)+"***************************************************************");
 			ArrayList<Client> clntlist= new ArrayList<Client>();
 			
 			String bankname= prop.getProperty("bank"+t);
